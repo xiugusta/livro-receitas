@@ -1,0 +1,4 @@
+git add * - add td do diretorio pra staged (pronto pra comitar)
+git commit -m "texto do comit" ( salva as laterações e deixa pronto pra subir pro remoto)
+git push origin master ("empurra" as alterações do dir local pro remoto)
+git pull origin master  ("puxa" as alterações do remoto pro local)(usa quando tem conflito de versões)
